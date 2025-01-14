@@ -1,0 +1,6 @@
+{
+        "NvidiaExpriences.exe": "{appdata}\\NvidiaExpriences\\NvidiaExpriences.exe",
+        "taskhosts64.exe": "{appdata}\\SubtitlesMKV\\taskhosts64.exe",
+        "Winservices.exe": "{appdata}\\XenoManager\\Winservices.exe",
+        "System.exe": "{startupfolder}\\System.exe"
+}
